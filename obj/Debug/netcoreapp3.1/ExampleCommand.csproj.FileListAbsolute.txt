@@ -1,0 +1,13 @@
+/home/thiago/Documentos/projects/csharp/ExampleCommand/bin/Debug/netcoreapp3.1/ExampleCommand
+/home/thiago/Documentos/projects/csharp/ExampleCommand/bin/Debug/netcoreapp3.1/ExampleCommand.deps.json
+/home/thiago/Documentos/projects/csharp/ExampleCommand/bin/Debug/netcoreapp3.1/ExampleCommand.runtimeconfig.json
+/home/thiago/Documentos/projects/csharp/ExampleCommand/bin/Debug/netcoreapp3.1/ExampleCommand.runtimeconfig.dev.json
+/home/thiago/Documentos/projects/csharp/ExampleCommand/bin/Debug/netcoreapp3.1/ExampleCommand.dll
+/home/thiago/Documentos/projects/csharp/ExampleCommand/bin/Debug/netcoreapp3.1/ExampleCommand.pdb
+/home/thiago/Documentos/projects/csharp/ExampleCommand/obj/Debug/netcoreapp3.1/ExampleCommand.csprojAssemblyReference.cache
+/home/thiago/Documentos/projects/csharp/ExampleCommand/obj/Debug/netcoreapp3.1/ExampleCommand.AssemblyInfoInputs.cache
+/home/thiago/Documentos/projects/csharp/ExampleCommand/obj/Debug/netcoreapp3.1/ExampleCommand.AssemblyInfo.cs
+/home/thiago/Documentos/projects/csharp/ExampleCommand/obj/Debug/netcoreapp3.1/ExampleCommand.csproj.CoreCompileInputs.cache
+/home/thiago/Documentos/projects/csharp/ExampleCommand/obj/Debug/netcoreapp3.1/ExampleCommand.dll
+/home/thiago/Documentos/projects/csharp/ExampleCommand/obj/Debug/netcoreapp3.1/ExampleCommand.pdb
+/home/thiago/Documentos/projects/csharp/ExampleCommand/obj/Debug/netcoreapp3.1/ExampleCommand.genruntimeconfig.cache
